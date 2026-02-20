@@ -1,0 +1,6 @@
+{
+    "code": "leads_sources_diagram",
+    "version": 1,
+    "widget_class": "leads-sources-diagram",
+    "locales": ["ru", "en"]
+}

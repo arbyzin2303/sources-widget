@@ -1,0 +1,26 @@
+{
+    "widget": {
+        "name": "widget.name",
+        "description": "widget.description",
+        "short_description": "widget.short_description",
+        "interface_version": 2,
+        "init_once": true,
+        "locale": [
+            "ru",
+            "en"
+        ],
+        "installation": true,
+        "version": "1.0.0"
+    },
+    "locations": [
+        "settings",
+        "everywhere"
+    ],
+    "settings": {
+        "source_field_name": {
+            "name": "settings.source_field_name",
+            "type": "text",
+            "required": false
+        }
+    }
+}

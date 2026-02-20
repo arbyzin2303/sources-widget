@@ -1,0 +1,10 @@
+{
+    "widget": {
+        "name": "Lead Sources",
+        "short_description": "Lead sources diagram on the dashboard",
+        "description": "Widget displays a diagram showing lead distribution by source: Yandex Direct, Website, Aggregators, Yandex Maps, Google Maps, 2GIS and others"
+    },
+    "settings": {
+        "source_field_name": "Source field name in the deal (default: Источник)"
+    }
+}
